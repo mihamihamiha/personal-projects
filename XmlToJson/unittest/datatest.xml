@@ -1,0 +1,14 @@
+<Documents>
+    <Document>
+        <title>Annual Report 2023</title>
+        <filename>Annual_Report_2023.pdf</filename>
+        <filesize>5MB</filesize>
+        <file-extension>pdf</file-extension>
+        <owner>John Doe</owner>
+        <create_timestamp>2023-03-01T12:00:00</create_timestamp>
+        <modified_timestamp>2023-03-05T15:30:00</modified_timestamp>
+        <retention_period>5 years</retention_period>
+        <organisation>ABC Corporation</organisation>
+        <department>Finance</department>
+    </Document>
+</Documents>

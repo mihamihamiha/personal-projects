@@ -1,0 +1,61 @@
+{
+  "Documents": {
+    "Document": [
+      {
+        "title": "Annual Report 2023",
+        "filename": "Annual_Report_2023.pdf",
+        "filesize": "5MB",
+        "file-extension": "pdf",
+        "owner": "John Doe",
+        "create_timestamp": "2023-03-01T12:00:00",
+        "modified_timestamp": "2023-03-05T15:30:00",
+        "retention_period": "5 years",
+        "organisation": "ABC Corporation",
+        "department": "Finance"
+      },
+      {
+        "title": "User Guide - Software Version 2.1",
+        "filename": "User_Guide_Software_V2.1.pdf",
+        "filesize": "6MB",
+        "file-extension": "pdf",
+        "owner": "Patricia Green",
+        "create_timestamp": "2023-02-11T17:00:00",
+        "modified_timestamp": "2023-02-13T18:30:00",
+        "retention_period": "730 days"
+      },
+      {
+        "title": "Software Development Best Practices",
+        "filename": "Software_Development_Best_Practices.pdf",
+        "filesize": "3.5MB",
+        "file-extension": "pdf",
+        "owner": "Laura Adams",
+        "create_timestamp": "2023-09-10T10:20:00",
+        "modified_timestamp": "2023-09-15T11:50:00",
+        "retention_period": "4 years",
+        "department": "IT"
+      },
+      {
+        "title": "Health and Safety Guidelines",
+        "filename": "Health_and_Safety_Guidelines.pdf",
+        "filesize": "2.5MB",
+        "file-extension": "pdf",
+        "owner": "Chris Turner",
+        "create_timestamp": "2023-06-20T15:30:00",
+        "modified_timestamp": "2023-06-25T17:00:00",
+        "retention_period": "Permanent",
+        "organisation": "Global Health Corp",
+        "department": "HR"
+      },
+      {
+        "title": "Internal Audit Report 2023 Q3",
+        "filename": "Internal_Audit_Report_2023_Q3.pdf",
+        "filesize": "4.5MB",
+        "file-extension": "pdf",
+        "owner": "Susan Clark",
+        "create_timestamp": "2023-10-05T09:15:00",
+        "modified_timestamp": "2023-10-08T10:40:00",
+        "retention_period": "48 months"
+      }
+    ]
+  }
+}

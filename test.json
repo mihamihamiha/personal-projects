@@ -1,0 +1,16 @@
+{
+  "Documents": {
+    "Document": {
+      "title": "Annual Report 2023",
+      "filename": "Annual_Report_2023.pdf",
+      "filesize": "5MB",
+      "file-extension": "pdf",
+      "owner": "John Doe",
+      "create_timestamp": "2023-03-01T12:00:00",
+      "modified_timestamp": "2023-03-05T15:30:00",
+      "retention_period": "5 years",
+      "organisation": "ABC Corporation",
+      "department": "Finance"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+<Documents>
+ <Document>
+ <title>Annual Report 2023</title>
+ <filename>Annual_Report_2023.pdf</filename>
+ <filesize>5MB</filesize>
+ <file-extension>pdf</file-extension>
+ <owner>John Doe</owner>
+ <create_timestamp>2023-03-01T12:00:00</create_timestamp>
+ <modified_timestamp>2023-03-05T15:30:00</modified_timestamp>
+ <retention_period>5 years</retention_period>
+ <organisation>ABC Corporation</organisation>
+ <department>Finance</department>
+ </Document>
+ <Document>
+ <title>User Guide - Software Version 2.1</title>
+ <filename>User_Guide_Software_V2.1.pdf</filename>
+ <filesize>6MB</filesize>
+ <file-extension>pdf</file-extension>
+ <owner>Patricia Green</owner>
+ <create_timestamp>2023-02-11T17:00:00</create_timestamp>
+ <modified_timestamp>2023-02-13T18:30:00</modified_timestamp>
+ <retention_period>730 days</retention_period>
+ </Document>
+ <Document>
+ <title>Software Development Best Practices</title>
+ <filename>Software_Development_Best_Practices.pdf</filename>
+ <filesize>3.5MB</filesize>
+ <file-extension>pdf</file-extension>
+ <owner>Laura Adams</owner>
+ <create_timestamp>2023-09-10T10:20:00</create_timestamp>
+ <modified_timestamp>2023-09-15T11:50:00</modified_timestamp>
+ <retention_period>4 years</retention_period>
+ <department>IT</department>
+ </Document>
+ <Document>
+ <title>Health and Safety Guidelines</title>
+ <filename>Health_and_Safety_Guidelines.pdf</filename>
+ <filesize>2.5MB</filesize>
+ <file-extension>pdf</file-extension>
+ <owner>Chris Turner</owner>
+ <create_timestamp>2023-06-20T15:30:00</create_timestamp>
+ <modified_timestamp>2023-06-25T17:00:00</modified_timestamp>
+ <retention_period>Permanent</retention_period>
+ <organisation>Global Health Corp</organisation>
+<department>HR</department>
+ </Document>
+ <Document>
+ <title>Internal Audit Report 2023 Q3</title>
+ <filename>Internal_Audit_Report_2023_Q3.pdf</filename>
+ <filesize>4.5MB</filesize>
+ <file-extension>pdf</file-extension>
+ <owner>Susan Clark</owner>
+ <create_timestamp>2023-10-05T09:15:00</create_timestamp>
+ <modified_timestamp>2023-10-08T10:40:00</modified_timestamp>
+ <retention_period>48 months</retention_period>
+ </Document>
+</Documents>
