@@ -3,7 +3,7 @@ from datetime import datetime
 from datetime import timedelta
 
 #own api key
-API_key = "3aa89e5301af4ad2b2fe1c949d731c03"
+API_key = "your api key"
 catalog = 181 #the catalog i used to get the data 
 
 current_datetime = datetime.utcnow()
